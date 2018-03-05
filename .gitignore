@@ -2,6 +2,7 @@
 /bf-android-host/
 /bf-android-library/
 /xhy-app/
+/node_modules/
 .babeirc
 .buckconfig
 .flowconfig
